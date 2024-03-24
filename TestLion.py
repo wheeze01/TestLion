@@ -9,7 +9,7 @@ def main() :
         for j in i :
             print('test comment'+j+" ")
 
-    print('finish')
+    print('finish22')
 
 if __name__ == '__main__' :
     main()
