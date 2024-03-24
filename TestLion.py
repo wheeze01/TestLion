@@ -7,7 +7,7 @@ def main() :
 
     for i in likeList :
         for j in i :
-            print(j+", ")
+            print('test comment'+j+" ")
 
     print('finish')
 
