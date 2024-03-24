@@ -9,7 +9,7 @@ def main() :
         for j in i :
             print('test comment'+j+" ")
 
-    print('finish22')
+    print("파이썬은 -5 ~ 255까지 정수는 static에 저장합니다")
 
 if __name__ == '__main__' :
     main()
